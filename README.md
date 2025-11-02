@@ -28,5 +28,5 @@ Aplicación web con Laravel y Livewire para control de stock y ventas.
 
 ## 📫 Contacto
 
-💼 [LinkedIn](https://www.linkedin.com/in/jose-silva-749b04180)  
+💼 [LinkedIn](https://www.linkedin.com/in/josesilvap)  
 🌐 [Portafolio web](https://tuportafolio.vercel.app)
